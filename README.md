@@ -81,7 +81,7 @@ AI-ML-Learning/
 
 ## 📊 Projects
 
-🚀 Real-world projects included:
+🚀 Real-world projects coming soon:
 - 🏠 House Price Prediction
 - 📩 Spam Classifier
 - 🖼️ Image Classification
@@ -92,8 +92,17 @@ AI-ML-Learning/
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kali-Prem&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali-Prem&theme=tokyonight" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kali-Prem&layout=compact&theme=tokyonight"/>
+      </td>
+      <td width="30"></td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali-Prem&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
