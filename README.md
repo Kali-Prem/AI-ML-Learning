@@ -1,45 +1,43 @@
-# 🤖 AI & Machine Learning Learning Repository
+# 🤖 AI & Machine Learning Roadmap 🚀
 
-A complete roadmap and resource hub to learn **Artificial Intelligence (AI)** and **Machine Learning (ML)** from scratch to advanced level.
-
----
-
-## 📌 About This Repository
-
-This repository is designed for:
-- Beginners starting AI/ML
-- Students preparing for placements
-- Developers switching to AI domain
-- Self-learners who want structured resources
-
-It contains curated resources, notes, projects, and practice material.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Learn+AI+%26+ML+Step+by+Step;Beginner+to+Advanced+Guide;Projects+%2B+Notes+%2B+Resources;Build+Your+AI+Career+🔥">
+</p>
 
 ---
 
-## 🧠 What You Will Learn
+## 🧠 About This Repository
 
-- Python for AI/ML
-- Mathematics for ML (Linear Algebra, Probability, Statistics)
-- Data Preprocessing & Visualization
-- Machine Learning Algorithms
-- Deep Learning (Neural Networks)
-- Natural Language Processing (NLP)
-- Computer Vision
-- Real-world Projects
+🚀 A complete structured roadmap to master:
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning
+
+💡 Created For Beginners + Advanced learners 
 
 ---
 
-## 📂 Repository Structure
+## 🏆 Badges
+
+![Repo Size](https://img.shields.io/github/repo-size/Kali-Prem/AI-ML-Learning)
+![Stars](https://img.shields.io/github/stars/Kali-Prem/AI-ML-Learning?style=social)
+![Forks](https://img.shields.io/github/forks/Kali-Prem/AI-ML-Learning?style=social)
+![Issues](https://img.shields.io/github/issues/Kali-Prem/AI-ML-Learning)
+![License](https://img.shields.io/github/license/Kali-Prem/AI-ML-Learning)
+
+---
+
+## 📂 Folder Structure
 AI-ML-Learning/  
-│   
-├── 01-Python/  
-├── 02-Mathematics/  
-├── 03-Data-Analysis/  
-├── 04-Machine-Learning/  
-├── 05-Deep-Learning/  
-├── 06-NLP/  
-├── 07-Projects/  
-└── Resources/  
+│  
+├── 01-Python 🐍  
+├── 02-Mathematics 📊  
+├── 03-Data-Analysis 📈  
+├── 04-Machine-Learning 🤖  
+├── 05-Deep-Learning 🧠  
+├── 06-NLP 🗣️  
+├── 07-Projects 🚀  
+└── Resources 📚  
 
 
 
@@ -47,77 +45,94 @@ AI-ML-Learning/
 
 ## 🛣️ Learning Roadmap
 
-### 1️⃣ Basics
-- Python (NumPy, Pandas)
-- Data Visualization (Matplotlib, Seaborn)
+### 🔰 Step 1: Python Basics
+- Variables, Loops, Functions
+- NumPy & Pandas
 
-### 2️⃣ Mathematics
+### 📊 Step 2: Mathematics
 - Linear Algebra
 - Probability
 - Statistics
 
-### 3️⃣ Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Model Evaluation
+### 🤖 Step 3: Machine Learning
+- Regression
+- Classification
+- Clustering
 
-### 4️⃣ Deep Learning
+### 🧠 Step 4: Deep Learning
 - Neural Networks
-- CNN, RNN
+- CNN / RNN
 - TensorFlow / PyTorch
 
-### 5️⃣ Advanced Topics
+### 🔥 Step 5: Advanced AI
 - NLP
 - Computer Vision
 - Generative AI
 
 ---
 
-## 🛠️ Tools & Technologies
+## ⚙️ Tech Stack
 
-- Python 🐍
-- Jupyter Notebook 📓
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Pandas & NumPy
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 Projects Included
+## 📊 Projects
 
-- House Price Prediction
-- Spam Detection Model
-- Image Classification
-- Chatbot (Basic NLP)
+🚀 Real-world projects included:
+- 🏠 House Price Prediction
+- 📩 Spam Classifier
+- 🖼️ Image Classification
+- 🤖 Chatbot (NLP)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kali-Prem&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali-Prem&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Goal
 
-To provide a **structured and practical path** to master AI & ML.
+✔️ Make AI/ML learning simple  
+✔️ Provide structured roadmap  
+✔️ Build real-world skills  
 
 ---
 
-## 🤝 Contribution
+## 🤝 Contribute
 
-Contributions are welcome!
-
-- Fork this repo
-- Create a new branch
-- Add your resources/projects
-- Submit a pull request
+1. Fork the repo  
+2. Create your branch  
+3. Add value  
+4. Submit PR  
 
 ---
 
 ## ⭐ Support
 
-If you find this helpful:
-- ⭐ Star this repository
-- 🔁 Share with others
+If you like this repo:
+
+👉 Star ⭐ the repo  
+👉 Share with friends  
+👉 Follow for more  
 
 ---
 
 ## 📬 Connect
 
-Created by **Kali-Prem**
+👤 **Kali-Prem**
+
+---
+
+<p align="center">
+🔥 "Consistency + Projects = AI Mastery" 🔥
+</p>
+
+
