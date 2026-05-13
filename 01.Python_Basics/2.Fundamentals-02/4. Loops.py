@@ -53,3 +53,65 @@ while (i <= 10):
     print(i)
     i += 1
 
+
+
+# =======Print EVEN NUMBERS 1 - 50 ==================
+i = 2
+while (i <= 50):
+    print(i)
+    i += 2
+
+
+
+# ========Sun of first N natural numers===========
+n = int(input("enter the number: "))
+sum = 0
+i = 1
+while(i <= n):
+    sum = sum + i
+    i += 1
+print("Sum", sum)
+
+
+# ========4. Reverse counting from 20 to 1========
+i = 20
+while (i > 0):
+    print(i)
+    i -= 1
+
+# ==========Reverse a number=================
+num = int(input("Enter the number ot reverse: "))
+revNo = 0
+while(num > 0):
+    revNo = revNo*10 + num % 10
+    num = num // 10
+print(revNo)
+
+# =========Count digits in a number============
+num = int(input("Enter number to count digit: "))
+count = 0
+while(num > 0):
+    count += 1
+    num = num // 10     #remove the last digit
+print("total count digit: ",count)
+
+# --------------------------------------------------------
+
+# =========Check palindrome number=============
+num = int(input("Enter num to check Palindrome: "))
+reversed = 0
+temp = num
+while(num > 0):
+    digit = num % 10
+    reversed = reversed*10 + digit
+    num = num // 10
+if(reversed == temp):
+    print("Number is palindrome")
+else:
+    print("Number is not palindrome")
+
+
+
+# --------------ATM Machine Simulation--------------------
+
+
