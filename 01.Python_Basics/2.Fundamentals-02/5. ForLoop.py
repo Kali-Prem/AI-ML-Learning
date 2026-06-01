@@ -1,4 +1,4 @@
-# For Loop syntax: 
+# For in Loop syntax: 
 #   for i in range(start,end,iteration):
 
 string = "hello"
