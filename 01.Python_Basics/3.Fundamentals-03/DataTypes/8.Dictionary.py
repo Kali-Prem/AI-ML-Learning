@@ -31,3 +31,14 @@ d.get(val)  = #return val acc. to key
 d.update(new_item)  = #adds new item to dict
 
 '''
+
+
+print(info.items())
+
+print(info["name"]) #but if the value of this key is not available then they throw error so we use .get() functions
+print(info.get("kali")) #this is not throw error this return none if not available 
+
+info.update({
+    "name" : "Linux Prem"
+})
+print(info)
